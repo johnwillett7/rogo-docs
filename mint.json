@@ -54,7 +54,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development", "create-account"]
+      "pages": ["introduction", "quickstart", "developmentt", "create-account"]
     },
     {
       "group": "Essentials",
