@@ -21,7 +21,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction","what-is-rogo", "selecting-a-data-source", "searching-on-web", "searching-on-earnings-call-transcripts", "searching-on-sec-filings", "searching-on-financial-data", "automated-workflows", "deep-research", "faqs", "quickstart", "development", "create-account"]
+      "pages": ["introduction","what-is-rogo", "create-account", "selecting-a-data-source", "searching-on-web", "searching-on-earnings-call-transcripts", "searching-on-sec-filings", "searching-on-financial-data", "faqs"]
     }
   ],
   "footerSocials": {
